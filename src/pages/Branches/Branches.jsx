@@ -11,44 +11,44 @@ const Branches = () => {
         {
             id:1,
             city: "Coimbatore",
-            icon: "/src/assets/image/addr-1.png",
+            icon: "https://i.ibb.co/WvrTSsd5/addr-1.png",
             address: " (2nd Floor), Pattalamma Temple Rd, Basavangudi, Bangalore, 560004",
-            image: '/src/assets/image/map.png'
+            image: 'https://i.ibb.co/FqLK0fTB/map.png'
         },
         {
             id:2,
             city: "chennai",
-            icon: "/src/assets/image/addr-2.png",
+            icon: "https://i.ibb.co/FbjmtNvN/addr-2.png",
             address: " (2nd Floor), Rain Forest Rd, Chennai, 560004",
-            image: '/src/assets/image/map.png'
+            image: 'https://i.ibb.co/FqLK0fTB/map.png'
         },
         {
             id:3,
             city: "hyderabad",
-            icon: "/src/assets/image/addr-3.png",
+            icon: "https://i.ibb.co/qM97zLsQ/addr-3.png",
             address: " (5nd Floor), Padma Temple Rd, Basavangudi, Hyderabad, 56000",
-            image: '/src/assets/image/map.png'
+            image: 'https://i.ibb.co/FqLK0fTB/map.png'
         },
         {
             id:4,
             city: "goa",
-            icon: "/src/assets/image/addr-4.png",
+            icon: "https://i.ibb.co/23B8MHXZ/addr-4.png",
             address: " (2nd Floor), Pattalamma Temple Rd, Madras, Goa, 560004",
-            image: '/src/assets/image/map.png'
+            image: 'https://i.ibb.co/FqLK0fTB/map.png'
         },
         {
             id:5,
             city: "Kochi",
-            icon: "/src/assets/image/addr-5.png",
+            icon: "https://i.ibb.co/HLhcBPr6/addr-5.png",
             address: " (2nd Floor), Pattalamma Temple Rd, Basavangudi, Bangalore, 560004",
-            image: '/src/assets/image/map.png'
+            image: 'https://i.ibb.co/FqLK0fTB/map.png'
         },
         {
             id:6,
             city: "Mumbai",
-            icon: "/src/assets/image/addr-6.png",
+            icon: "https://i.ibb.co/dwXbmSCQ/addr-6.png",
             address: " (1nd Floor), Bijoy Shoroni Rd, Basavangudi, Mumbai, 560004",
-            image: '/src/assets/image/map.png'
+            image: 'https://i.ibb.co/FqLK0fTB/map.png'
         }
     ]
     return (

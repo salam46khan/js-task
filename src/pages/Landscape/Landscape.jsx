@@ -47,25 +47,25 @@ const Landscape = () => {
             id: 1,
             title: 'Antiqo Fence',
             price: '₹10,024.00-₹14,984.82',
-            image: '/src/assets/image/lan-1.png'
+            image: 'https://i.ibb.co/GDMpbd5/lan-1.png'
         },
         {
             id:2,
             title: 'JF Australian Trellis',
             price: "₹6,962.00",
-            image: '/src/assets/image/lan-2.png'
+            image: 'https://i.ibb.co/W4YkJkrp/lan-2.png'
         },
         {
             id:3,
             title: 'JF Polyhex Mesh',
             price: "₹4,050.00-₹10,770.00",
-            image: "/src/assets/image/lan-3.png"
+            image: "https://i.ibb.co/496sqYR/lan-3.png"
         },
         {
             id:4,
             title: 'JF Privezy Grass Wall',
             price: '₹1,646.10-₹18,284.10',
-            image: '/src/assets/image/lan-4.png'
+            image: 'https://i.ibb.co/s9pmtjrD/lan-4.png'
         }
     ]
     return (

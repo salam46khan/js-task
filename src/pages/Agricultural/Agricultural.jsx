@@ -57,19 +57,19 @@ const Agricultural = () => {
             id:2,
             title: 'FGC RustFree Fencing Poles',
             price: "₹4,99.00-₹1,589.00",
-            image: '/src/assets/image/agri-2.png'
+            image: 'https://i.ibb.co/rRLjVhDS/agri-2.png'
         },
         {
             id:3,
             title: 'GI Poultry Mesh',
             price: "₹1,260.00-₹10,750.00",
-            image: "/src/assets/image/agri-3.png"
+            image: "https://i.ibb.co/mVdbzSTx/agri-3.png"
         },
         {
             id:4,
             title: 'JF Bluelink Mesh',
             price: '₹3,067.50-₹6,362.50',
-            image: '/src/assets/image/agri-4.png'
+            image: 'https://i.ibb.co/4ZwJSFmB/agri-4.png'
         }
     ]
     return (

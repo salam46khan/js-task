@@ -5,8 +5,8 @@ const Productcard = ({product}) => {
     return (
         <div className="bg-[#F2F4F6] p-2.5 rounded-2xl w-full max-w-[305px] ">
             <div className="h-[220px] rounded-3xl overflow-hidden">
-                {/* <img className="h-full w-full object-cover" src={product.image} alt="" /> */}
-                <img className="h-full w-full object-cover" src={"https://i.ibb.co/ZpgKjh2c/agri-1.png"} alt="" />
+                <img className="h-full w-full object-cover" src={product.image} alt="" />
+                
             </div>
             <div className="p-3">
                 <p className="font-semibold py-2">{product.title}</p>

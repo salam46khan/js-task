@@ -6,19 +6,19 @@ const Why = () => {
             id:1,
             title: "Unmatched Durability with Corrosion-Free Technology",
             text: "Our JF-270 barbed wire features a robust 270 GSM zinc coating, ensuring superior resistance against rust and corrosion. Paired with stainless steel binding wire, our fencing solutions are designed to withstand harsh environmental conditions, offering longevity and reliability.",
-            image: '/src/assets/image/why-1.png'
+            image: 'https://i.ibb.co/d4QKyPgM/why-1.png'
         },
         {
             id: 2,
             title: "Customer-Centric Approach",
             text: "At JF Products, customer satisfaction is paramount. We pride ourselves on delivering timely services, maintaining transparent communication, and ensuring a seamless purchasing experience. Our commitment to excellence is reflected in the positive feedback from our valued clients.",
-            image: '/src/assets/image/why-2.png'
+            image: 'https://i.ibb.co/PvDmz00r/why-2.png'
         },
         {
             id: 3,
             title: "Innovative and Diverse Product Range",
             text: "We offer a wide array of fencing solutions, including Polyhex Mesh, Australian Trellis, and GI Poultry Mesh, catering to various needs from agricultural to residential applications. Our products combine functionality with aesthetic appeal, ensuring both security and style.",
-            image: '/src/assets/image/why-3.png'
+            image: 'https://i.ibb.co/xSVgYhBg/why-3.png'
         }
     ]
     return (
