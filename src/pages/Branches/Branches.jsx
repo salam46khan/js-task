@@ -13,7 +13,7 @@ const Branches = () => {
             city: "Coimbatore",
             icon: "/src/assets/image/addr-1.png",
             address: " (2nd Floor), Pattalamma Temple Rd, Basavangudi, Bangalore, 560004",
-            image: '../../assets/image/map.png'
+            image: '/src/assets/image/map.png'
         },
         {
             id:2,
