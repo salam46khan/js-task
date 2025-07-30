@@ -51,7 +51,7 @@ const Agricultural = () => {
             id: 1,
             title: 'JF Barbed Wire- 270 GSM',
             price: '₹4995.00',
-            image: '/src/assets/image/agri-1.png'
+            image: 'https://i.ibb.co/ZpgKjh2c/agri-1.png'
         },
         {
             id:2,
